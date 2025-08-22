@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fullsoft\\Estudos\\Aula 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D29BF535-8A41-4ADC-9293-CA331449517D}|Exercicio20\\Exercicio20.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29BF535-8A41-4ADC-9293-CA331449517D}|Exercicio20\\Exercicio20.csproj|solutionrelative:exercicio20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00762389-FD79-44B6-B2E3-B24583B5E176}|Exercicio19\\Exercicio19.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00762389-FD79-44B6-B2E3-B24583B5E176}|Exercicio19\\Exercicio19.csproj|solutionrelative:exercicio19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BD88A-82C1-4481-8FB9-816ADE01E470}|Exercicio18\\Exercicio18.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223BD88A-82C1-4481-8FB9-816ADE01E470}|Exercicio18\\Exercicio18.csproj|solutionrelative:exercicio18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC3D7C7-A580-41C6-930C-FE83A3B395C9}|Exercicio17\\Exercicio17.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC3D7C7-A580-41C6-930C-FE83A3B395C9}|Exercicio17\\Exercicio17.csproj|solutionrelative:exercicio17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62A8184-CC46-4FD2-A1B0-46330BDB5AF9}|Exercicio16\\Exercicio16.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62A8184-CC46-4FD2-A1B0-46330BDB5AF9}|Exercicio16\\Exercicio16.csproj|solutionrelative:exercicio16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71789DD0-DA6E-447F-B986-5F7D60288E96}|Exercicio15\\Exercicio15.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71789DD0-DA6E-447F-B986-5F7D60288E96}|Exercicio15\\Exercicio15.csproj|solutionrelative:exercicio15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62067510-6154-4A20-B9BC-44FEE5536F04}|Exercicio14\\Exercicio14.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62067510-6154-4A20-B9BC-44FEE5536F04}|Exercicio14\\Exercicio14.csproj|solutionrelative:exercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC9EA3-3D77-426B-BD28-6618E93AE3FA}|Exercicio13\\Exercicio13.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC9EA3-3D77-426B-BD28-6618E93AE3FA}|Exercicio13\\Exercicio13.csproj|solutionrelative:exercicio13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83926088-5BC8-4996-B878-81824333D20A}|Exercicio12\\Exercicio12.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83926088-5BC8-4996-B878-81824333D20A}|Exercicio12\\Exercicio12.csproj|solutionrelative:exercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C151E98-D73A-F026-0738-CCD9BD2D1DD3}|Exercicio11\\Exercicio11.csproj|c:\\fullsoft\\estudos\\aula 3\\exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C151E98-D73A-F026-0738-CCD9BD2D1DD3}|Exercicio11\\Exercicio11.csproj|solutionrelative:exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio11\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio11\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio11\\Program.cs",
+              "RelativeToolTip": "Exercicio11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:59:51.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio20\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio20\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio20\\Program.cs",
+              "RelativeToolTip": "Exercicio20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:59:26.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio19\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio19\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio19\\Program.cs",
+              "RelativeToolTip": "Exercicio19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:59:14.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio18\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio18\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio18\\Program.cs",
+              "RelativeToolTip": "Exercicio18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:59:03.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio17\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio17\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio17\\Program.cs",
+              "RelativeToolTip": "Exercicio17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:58:45.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio16\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio16\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio16\\Program.cs",
+              "RelativeToolTip": "Exercicio16\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:58:33.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio15\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio15\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio15\\Program.cs",
+              "RelativeToolTip": "Exercicio15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:58:24.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio14\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio14\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio14\\Program.cs",
+              "RelativeToolTip": "Exercicio14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:58:16.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio13\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio13\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio13\\Program.cs",
+              "RelativeToolTip": "Exercicio13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:58:07.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio12\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio12\\Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\Aula 3\\Exercicio12\\Program.cs",
+              "RelativeToolTip": "Exercicio12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:57:53.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
