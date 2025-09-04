@@ -21,6 +21,7 @@
             {
                 Console.Write($"{obj} ");
             }
+          
         }    
         static int[] RemoverDuplicados(int[] vetor)
         {
