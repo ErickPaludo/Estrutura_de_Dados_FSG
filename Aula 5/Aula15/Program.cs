@@ -1,26 +1,46 @@
-﻿namespace Aula
+﻿using System;
+
+namespace Aula
 {
-    internal class Program
+    class Pessoa
     {
-        static void Main(string[] args)
+        private string _nome;
+        private int _idade;
+
+        public string Nome => _nome;
+        public int Idade => _idade;
+
+        public Pessoa(string nome, int idade)
         {
-            //Exercício 10: Produto Escalar de Dois Vetores
-            //Descrição: Escreva uma função ProdutoEscalar que receba dois vetores de inteiros de mesma dimensão e retorne o produto escalar desses vetores.
-            //Exemplo de Entrada:
-            int[] vetor1 = { 1, 3, -5 };
-            int[] vetor2 = { 4, -2, -1 };
-            //Exemplo de Saída:
-            //Produto Escalar: 3
-            ProdutoEscalar(vetor1, vetor2);
+            _nome = nome;
+            _idade = idade;
         }
-        static void ProdutoEscalar(int[] vet1, int[] vet2)
+    }
+
+    class Agenda
+    {
+        private Pessoa _contato;
+
+        public Pessoa Contato => _contato;
+
+        public Agenda(Pessoa contato)
         {
-            int escalar = 0;
-            for (int i = 0; i < vet1.Length; i++)
-            {
-               escalar += vet1[i] * vet2[i];
-            }
-            Console.WriteLine(escalar);
+            _contato = contato;
+        }
+
+        public void MostrarContato()
+        {
+            Console.WriteLine($"Contato: {_contato.Nome}, {_contato.Idade} anos");
+        }
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            Pessoa p = new Pessoa("Bianca", 22);
+            Agenda a = new Agenda(p);
+            a.MostrarContato();
         }
     }
 }

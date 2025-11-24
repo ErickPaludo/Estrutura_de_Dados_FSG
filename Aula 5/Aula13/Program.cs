@@ -1,26 +1,39 @@
-﻿namespace Aula
+﻿using System;
+
+namespace Aula
 {
-    internal class Program
+    class Retangulo
     {
-        static void Main(string[] args)
+        private double _largura;
+        private double _altura;
+
+        public double Largura => _largura;
+        public double Altura => _altura;
+
+        public Retangulo(double largura, double altura)
         {
-            //Exercício 10: Produto Escalar de Dois Vetores
-            //Descrição: Escreva uma função ProdutoEscalar que receba dois vetores de inteiros de mesma dimensão e retorne o produto escalar desses vetores.
-            //Exemplo de Entrada:
-            int[] vetor1 = { 1, 3, -5 };
-            int[] vetor2 = { 4, -2, -1 };
-            //Exemplo de Saída:
-            //Produto Escalar: 3
-            ProdutoEscalar(vetor1, vetor2);
+            _largura = largura;
+            _altura = altura;
         }
-        static void ProdutoEscalar(int[] vet1, int[] vet2)
+
+        public double CalcularArea()
         {
-            int escalar = 0;
-            for (int i = 0; i < vet1.Length; i++)
-            {
-               escalar += vet1[i] * vet2[i];
-            }
-            Console.WriteLine(escalar);
+            return _largura * _altura;
+        }
+
+        public double CalcularPerimetro()
+        {
+            return 2 * (_largura + _altura);
+        }
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            Retangulo r = new Retangulo(3.5, 2.0);
+            Console.WriteLine($"Área: {r.CalcularArea()}");
+            Console.WriteLine($"Perímetro: {r.CalcularPerimetro()}");
         }
     }
 }

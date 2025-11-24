@@ -1,26 +1,34 @@
 ﻿namespace Aula
 {
-    internal class Program
+    using System;
+
+    class Funcionario
     {
-        static void Main(string[] args)
+        private string _nome;
+        private double _salario;
+
+        public string Nome => _nome;
+        public double Salario => _salario;
+
+        public Funcionario(string nome, double salario)
         {
-            //Exercício 10: Produto Escalar de Dois Vetores
-            //Descrição: Escreva uma função ProdutoEscalar que receba dois vetores de inteiros de mesma dimensão e retorne o produto escalar desses vetores.
-            //Exemplo de Entrada:
-            int[] vetor1 = { 1, 3, -5 };
-            int[] vetor2 = { 4, -2, -1 };
-            //Exemplo de Saída:
-            //Produto Escalar: 3
-            ProdutoEscalar(vetor1, vetor2);
+            _nome = nome;
+            _salario = salario;
         }
-        static void ProdutoEscalar(int[] vet1, int[] vet2)
+
+        public void AumentarSalario(double percentual)
         {
-            int escalar = 0;
-            for (int i = 0; i < vet1.Length; i++)
-            {
-               escalar += vet1[i] * vet2[i];
-            }
-            Console.WriteLine(escalar);
+            _salario += _salario * (percentual / 100);
+        }
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            Funcionario f = new Funcionario("Rita", 3000);
+            f.AumentarSalario(10);
+            Console.WriteLine($"{f.Nome} - Novo salário: {f.Salario}");
         }
     }
 }

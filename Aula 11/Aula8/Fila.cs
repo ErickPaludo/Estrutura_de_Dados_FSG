@@ -1,0 +1,87 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Aula
+{
+    public class Fila
+    {
+        private No _primeiro;
+        private No _ultimo;
+
+        public void Enfileirar(int valor)
+        {
+            var novo = new No(valor);
+            if (_primeiro == null)
+            {
+                _primeiro = novo;
+                _ultimo = novo;
+            }
+            else
+            {
+                _ultimo.Proximo = novo;
+                _ultimo = novo;
+            }
+        }
+
+        public int Desenfileirar()
+        {
+            if (_primeiro == null) return -1;
+            int valor = _primeiro.Valor;
+            _primeiro = _primeiro.Proximo;
+            if (_primeiro == null) _ultimo = null;
+            return valor;
+        }
+
+        public void Mostrar()
+        {
+            var atual = _primeiro;
+            while (atual != null)
+            {
+                Console.Write(atual.Valor);
+                if (atual.Proximo != null) Console.Write(",");
+                atual = atual.Proximo;
+            }
+            Console.WriteLine();
+        }
+
+        public int Tamanho()
+        {
+            int count = 0;
+            var atual = _primeiro;
+            while (atual != null)
+            {
+                count++;
+                atual = atual.Proximo;
+            }
+            return count;
+        }
+
+        public int ObterPosicao(int valor)
+        {
+            int index = 0;
+            var atual = _primeiro;
+            while (atual != null)
+            {
+                if (atual.Valor == valor) return index;
+                index++;
+                atual = atual.Proximo;
+            }
+            return -1;
+        }
+
+        public Fila Clonar()
+        {
+            var clone = new Fila();
+            var atual = _primeiro;
+            while (atual != null)
+            {
+                clone.Enfileirar(atual.Valor);
+                atual = atual.Proximo;
+            }
+            return clone;
+        }
+    }
+}
